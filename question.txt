@@ -1,0 +1,4 @@
+Q1.How does js works?
+Ans: JavaScipt is a interpreted language. It's doesnot need any compiler to translate line by line. Every web browser have their own built-in interpreter to read JavaScipt code, when browser loads the page that interpreter reads the JavaSciptcode it finds in the page and runs it.It enables us to incorporate dynamic behaviour and interesting effects into the website.
+Q.3. Whats the differences between Local storage and session storage?
+Ans: SessionStorage exists only for the life of the browser session and is removed when the tab or window is closed. LocalStorage, on the other hand, is a web storage object that keeps data locally on the user's machine. That is, closing the tab or window does not remove any data. 

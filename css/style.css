@@ -245,9 +245,9 @@ img {
 }
 
 #question {
-  width: 600px;
-  justify-content: center;
-  margin-left: 70px;
+  width: 800px;
+  /* justify-content: center; */
+  margin-left: 100px;
 }
 .answer {
   display: flex;
